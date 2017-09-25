@@ -5,7 +5,7 @@ Windows版无边框窗口缩放，支持QML和Widget <br />
 
 # 使用方法 #
 QWidget <br />
-![](https://github.com/lowbees/images/blob/master/FramelessWindowHelperWidget.png)
+![](https://github.com/lowbees/images/blob/master/FramelessWindowHelperWidget.png) <br />
 QML比较麻烦 <br />
 ![](https://github.com/lowbees/images/blob/master/WindowsFramelessHelperQML.png)
 
