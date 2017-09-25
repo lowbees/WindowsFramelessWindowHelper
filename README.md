@@ -1,5 +1,5 @@
 # WindowsFramelessWindow
-Windows版无边框窗口缩放，支持QML和Widget <br />
+Windows版无边框窗口缩放，支持QML和QWidget, 支持windows特性 <br />
 参考猫大的 https://github.com/qtdevs/FramelessHelper <br />
 还有这个 http://www.cnblogs.com/dongc/p/5598053.html <br />
 
