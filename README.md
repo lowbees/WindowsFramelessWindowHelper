@@ -1,0 +1,2 @@
+# WindowsFramelessWindow
+Windows版无边框窗口缩放，支持QML和Widget
